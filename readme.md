@@ -105,5 +105,5 @@ For questions about this course ant the material, please contact Prof. Alexandre
 ## Most of the material in the course are explored in video tutorials in the YouTube channel https://www.youtube.com/channel/UCbJAU7N9FYvwkdgSwD_1S4Q
 
 ---
-
-© 2025 Alexandre Bruni Cardoso, University of São Paulo
+BSD 3-Clause License
+Copyright (c) 2024, Alexandre Bruni-Cardoso
