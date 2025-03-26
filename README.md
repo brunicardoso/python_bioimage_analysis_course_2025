@@ -101,8 +101,12 @@ Completion of practical exercises and submission of a final project.
 
 ## Contact
 For questions about this course ant the material, please contact Prof. Alexandre Bruni Cardoso at brunicar@iq.usp.br 
+## Citation
+Bruni-Cardoso, A. (2025). Teaching material for microscopy image (bioimage) analysis with Python (QBQ5915 - 2025). Zenodo. https://doi.org/10.5281/zenodo.15089565
 
-## Most of the material in the course are explored in video tutorials in the YouTube channel https://www.youtube.com/channel/UCbJAU7N9FYvwkdgSwD_1S4Q
+## Most of the material in the course are explored in video tutorials in the YouTube channel 
+[![YouTube Channel](https://img.shields.io/badge/YouTube-BioPrograma-red?logo=youtube)](https://www.youtube.com/channel/UCbJAU7N9FYvwkdgSwD_1S4Q)
+[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](LICENSE)
 
 ---
 BSD 3-Clause License
