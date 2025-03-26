@@ -76,7 +76,7 @@ The repository includes various sample images for practical exercises:
 - `hela-cells-8bit.tif`
 - `blobs.tif`
 - `data_for_superplot_JCB_paper.csv`
-- Various instructional videos (e.g., `luts_brightness.mp4`, `simple_microscope.mp4`)
+
 
 The images used in the exercises are downloaded directly from the internet, form imagej sample images ( https://imagej.net/ij/images/ ) or from the public repository at https://bbbc.broadinstitute.org/
 ## Environment Files for
