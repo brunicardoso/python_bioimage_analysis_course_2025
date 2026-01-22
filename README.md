@@ -85,7 +85,7 @@ Windows:
 - `bioimage_analyst_env.yml` - General environment for bioimage analysis
 Mac:
 - `bia_bob_macb.yml` - Environment configuration for BiaBob AI assistant
--`bioimage_analyst.yml`- General environment for bioimage analysis
+- `bioimage_analyst.yml`- General environment for bioimage analysis
 
 ## Methodology
 The course combines lectures with practical activities in Jupyter Notebooks and exercises based on real cases.
